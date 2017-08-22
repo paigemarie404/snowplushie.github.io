@@ -1,0 +1,21 @@
+# Site settings
+title: 404 Paige Not Found
+header-img: img/home-bg.png
+email: snowplushie@yahoo.com
+copyright_name: snowplushie
+description: > # this means to ignore newlines until "baseurl:"
+  A Coding Journey
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  snowplushie
+learn_profile: snowplushie
+email_username: snowplushie@yahoo.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
