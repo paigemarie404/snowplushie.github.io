@@ -17,7 +17,7 @@ As I reach the end of Intro to Ruby Development, there are a few things I have l
 
 Over the past month or so, I have gone back and forth with my feelings for Ruby. Some days, I see it as a force of pure evil.
 
-![](https://imgur.com/iYq16EP)
+![imgur.com/iYq16EP](https://)
 
 Other days, however, I love it. It can be a bit tricky at first, but once I started to understand what it wanted and how it wanted it, my despare slowly melted away and it was replaced with my love for puzzles and my determination to solve them. Plus, I'm pretty sure my boyfriend was tired of my waterworks every single time I would get a Syntax Error and was too stubborn to go to bed until I figured it out. I would like to take a minute to thank him... Hi Chris, thank you for putting up with me and my rage for hours on end!
 
