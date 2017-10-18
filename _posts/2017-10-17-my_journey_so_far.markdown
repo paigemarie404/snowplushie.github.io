@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Journey So Far"
-date:       2017-10-17 09:48:36 +0000
+date:       2017-10-17 05:48:37 -0400
 permalink:  my_journey_so_far
 ---
 
@@ -9,7 +9,7 @@ As I reach the end of Intro to Ruby Development, there are a few things I have l
 
 1. There will always be errors, no matter how much force you use on your keyboard.
 2. When the screen starts to look blurry, it's time to take a break or go to sleep.
-3. Barganing doesn't work.
+3. Bargaining doesn't work.
 4. Screaming at the screen only works occasionally.
 5. "Hello, World!" doesn't like me.
 
