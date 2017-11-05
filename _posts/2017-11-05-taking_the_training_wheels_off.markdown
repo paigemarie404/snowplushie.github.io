@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Taking the Training Wheels Off"
-date:       2017-11-05 08:15:49 +0000
+date:       2017-11-05 03:15:49 -0500
 permalink:  taking_the_training_wheels_off
 ---
 
@@ -21,3 +21,4 @@ When I read the description and it said I would be writing HTML and CSS code fro
 I’m not going to lie, it took me about an hour to finish it once I got going. I made borders and margins and used ems and pxs, and then it was done. I wrote HTML and CSS from scratch. I would probably be more excited right now if I wasn’t still in shock that I actually did it.
 
 I know once my astonished state fades and I truly appreciate what I accomplished, I will then become a bit cocky until I hit another bump in the road or get another error message and realize that I will always be learning when it comes to coding!
+
