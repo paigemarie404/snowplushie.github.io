@@ -1,15 +1,14 @@
 # Site settings
+author: Paige Marie W.
 title: 404 Paige Not Found
 header-img: img/home-bg.png
 email: snowplushie@yahoo.com
-copyright_name: snowplushie
+copyright_name: Paige Marie W.
 description: > # this means to ignore newlines until "baseurl:"
   A Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  snowplushie
-learn_profile: snowplushie
-email_username: snowplushie@yahoo.com
 
 # Build settings
 markdown: kramdown
